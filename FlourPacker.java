@@ -17,7 +17,6 @@ public class FlourPacker {
                     }
                     return false;
                 }
-                goal += i * 5;
             }
             if (smallCount >= goal) {
                 return true;
